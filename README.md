@@ -18,10 +18,8 @@ Contiene 4 jupyter notebook per le 4 reti create:
       - Validation Accuracy: 0.7949
       - Validation Loss: 0.4508
   - MobileNetV2_Grayscale:
-      - Validation Accuracy: 
-      - Validation Loss:
-   
-
+      - Validation Accuracy: 0.8590
+      - Validation Loss: 0.3334
 
 ### Esecuzione
 Per l'esecuzione aggiornare i path del drive presenti nei notebook
